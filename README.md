@@ -1,4 +1,5 @@
 Run python3 main.py
+
 Instructions for game:-
 
 1. Use A and D to move the paddle left and right respectively.
